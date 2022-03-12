@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Álvaro Merino</h1>
+<h1 align="center">Hello 👋, I'm Álvaro Merino</h1>
 <h3 align="center">A Telematics Engineering student from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realvarx&label=Profile%20views&color=ff4c29&style=flat" alt="realvarx" /> </p>
