@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realvarx&label=Profile%20views&color=ff4c29&style=flat" alt="realvarx" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Docker & Kubernetes**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://realvarx.github.io/#/](https://realvarx.github.io/#/)
 
